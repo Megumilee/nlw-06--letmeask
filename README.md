@@ -65,7 +65,7 @@ Faça suas perguntas em tempo real com o Let me ask!
             <p>➤ <a href="https://firebase.google.com/?hl=pt">FireBase</a> </p>
             <p>➤ <a href="https://pt-br.reactjs.org/">ReactJS</a> </p>
 
- >This project was developed by **[@Milene Rodrigues](https://www.linkedin.com/in/milene-rodrigues013/)**, with the instructor **[@diego3g  during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** . <br> 
+ >This project was developed by **[@Milene Rodrigues](https://www.linkedin.com/in/milene-rodrigues013/)**, with the instructor [@diego3g](https://www.linkedin.com/in/diego-schell-fernandes/) during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** . <br> 
    
     
     

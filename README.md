@@ -23,7 +23,7 @@ Faça suas perguntas em tempo real com o Let me ask!
 </p>
 
 <p2> Projeto Let me ask, desenvolvido durante o evento "Next Level Week" da Rocketseat. Este projeto é um site que oferece ao usuário a possibilidade de fazer perguntas ao administrador da página. </p2>
-<p3> Evento incrível com muito conteúdo gratuito. Eu aprendi muito! Mesmo que eu não tenha terminado o projeto completamente. </p3>
+<p3> Evento incrível com muito conteúdo gratuito. O projeto não está totalmente completo, porém eu aprendi muito! </p3>
 
 
 <p align="center"> 

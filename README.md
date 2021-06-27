@@ -19,7 +19,7 @@ Get your questions answered in real time with Let me Ask!
 </p>
 
 <p align="center"> 
-Faça suas perguntas com o Let me ask!
+Faça suas perguntas em tempo real com o Let me ask!
 </p>
 
 <p2> Projeto Let me ask, desenvolvido durante o evento "Next Level Week" da Rocketseat. Este projeto é um site que oferece ao usuário a possibilidade de fazer perguntas ao administrador da página. </p2>
@@ -28,4 +28,6 @@ Faça suas perguntas com o Let me ask!
 <h1 align="center">
     <b> PREVIEW 🖥️ </b>
 </h1>
+
+<img src=“”>
 

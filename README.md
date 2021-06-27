@@ -30,8 +30,9 @@ Faça suas perguntas em tempo real com o Let me ask!
 -----------------------------------------------------------------------------------------------------
 </p>
 <h2 align="center">
-    <b> PREVIEW/VISUALIZAÇÃO DO APP 💻
+    <b> PREVIEW/VISUALIZAÇÃO 💻
  </b>
 </h2>
+<img src="https://github.com/Megumilee/nlw-06--letmeask/blob/main/Tela%20inicial%2Cjpg.JPG">
 <img src="">
 <p> 

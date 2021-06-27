@@ -29,10 +29,42 @@ Faça suas perguntas em tempo real com o Let me ask!
 <p align="center"> 
 -----------------------------------------------------------------------------------------------------
 </p>
+
 <h2 align="center">
     <b> PREVIEW/VISUALIZAÇÃO 💻
  </b>
 </h2>
+
 <img src="https://github.com/Megumilee/nlw-06--letmeask/blob/main/Tela%20inicial%2Cjpg.JPG">
-<img src="">
+<img src="https://github.com/Megumilee/nlw-06--letmeask/blob/main/Cria%C3%A7ao-de-sala.jpg">
 <p> 
+
+<p align="center"> 
+-----------------------------------------------------------------------------------------------------
+</p>
+
+<h2 align="center">
+    <b> FUNCIONALITIES/FUNCIONALIDADES 🛠️  </b>
+ </h2>
+            <p>➤ Asking questions/Faça perguntas</p>
+            <p>➤ Create rooms/Crie salas</p>
+            <p>➤ Answer questions quickly/Responda perguntas rapidamente</p>
+          
+ <p align="center"> 
+-----------------------------------------------------------------------------------------------------
+</p>
+
+<h2 align="center">
+    <b> TECHNOLOGIES/TECNOLOGIAS 🚀
+ </b>
+</h2>
+
+<p>            ➤ <a href="https://nodejs.org/en/">NodeJS</a> </p>
+            <p>➤ <a href="https://www.javascript.com/">JavaScript</a> </p>
+            <p>➤ <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a> </p>
+            <p>➤ <a href="https://firebase.google.com/?hl=pt">FireBase</a> </p>
+            <p>➤ <a href="https://pt-br.reactjs.org/">ReactJS</a> </p>
+
+
+    
+    
